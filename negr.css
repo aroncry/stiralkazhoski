@@ -47,93 +47,6 @@ h1{
   padding-top: 140px;
 
 }
-/* .cont {
-  display: flex;
-  align-items: center;
-  padding-bottom: 35px;
-}
-
-.cont span {
-  color: #FFF;
-  font-family: TT Norms;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 20px; 
-color: #FFF;
-text-align: center;
-
-}
-
-.q1{
-  color: #FFF;
-font-family: TT Norms;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 20px; /* 125% */
-/* font-family: TT Norms;
-font-size: 16px;
-font-weight: 500;
-line-height: 20px;
-letter-spacing: 0em;
-text-align: left;
-padding-bottom: 46px;
-}
-
-.button {
-  background: none;
-  border-radius: 18px;
-border: 2px solid #FFC464;
-padding: 16px 24px;
-color: #FFC464;
-margin-left: 40px;
-width: 162px;
-height: 55px;
-border-radius: 15px;
-}
-
-.header__top{
-  padding-bottom: 46px;
-}
-
-.img1{
-  top: 0;
-  left: 0;
-  position: absolute;
-}
-
-.img2{
-  top: 0;
-  left: 0;
-  position: absolute;
-}
-
-.img3{
-  top: 0;
-  left: 0;
-  position: absolute;
-}
-
-.woman{
-  top: 0;
-  left: 0;
-  position: absolute;
-}
-
-.chel{
-  top: 0;
-  left: 0;
-  position: absolute;
-}
-
-
-
-.photo {
-  margin: 0 auto;
-  padding: 0 10px;
-  position: relative; */
-/* } */ 
 
 
 .text{
@@ -257,4 +170,267 @@ text-align: left;
 }
 .mss{
   text-decoration: none;
+  
+}
+
+
+.inf{
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  padding-top: 75px;
+}
+
+.pnk{
+  display: flex;
+  font-family: TT Norms;
+  justify-content: space-between;
+  grid-gap: 0 80px;
+font-size: 20px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0em;
+flex-direction: row;
+min-height: 100px;;
+}
+
+
+
+.asd h3{ 
+  color: #000;
+font-family: TT Norms;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 130%; 
+max-width: 207px;
+}
+
+.problem{
+  padding-top: 75px;
+}
+
+.od{
+  padding-top: 115px;
+  font-family: TT Norms;
+font-size: 15px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 0.05em;
+text-align: left;
+color: #A95094;
+width: 184px;
+height: 15px;
+  
+}
+
+.kyp{
+  font-family: TT Norms;
+font-size: 45px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: -0.015em;
+text-align: left;
+color: black;
+}
+
+.b12{
+  font-family: TT Norms;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+color: #96317D;
+padding: 15px 29px;
+stroke-width: 1px;
+stroke: #A95094;
+background: none;
+border: 2px solid #A95094;
+border-radius: 12px;
+transition: all 0.8s;
+}
+
+.b12:hover{
+  color: white;
+  background-color: #A95094;
+}
+
+.buttons{
+  display: flex;
+  max-width: 620px;
+  flex-wrap: wrap;
+  grid-gap:20px 15px;
+}
+
+.trubl{
+background-image: url(./Group\ 1319.png);
+min-height: 813px;
+background-repeat: no-repeat;
+background-position:right 150px;
+}
+
+.vvp{
+  font-family: TT Norms;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+display: flex;
+align-items: center;
+grid-gap:0 15px;
+}
+
+.stoimost{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.uslugi{
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 0px;
+  border-bottom: 1px solid #ECECEC;
+
+}
+
+.uslugi .cena:nth-child(2){
+  margin-left: auto;
+  padding-right: 128px;
+}
+
+.uslugi .cena:nth-child(3){
+  width: 200px;
+  text-align: right;
+}
+
+.cena{
+  font-family: TT Norms;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+}
+
+.cena span{
+  color: #000;
+font-family: TT Norms;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+}
+
+.cena p{
+  color: #96317D;
+text-align: right;
+font-family: TT Norms;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+}
+
+.sr{
+  font-family: TT Norms;
+font-size: 45px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: -0.015em;
+text-align: left;
+color: black;
+text-align: center;
+padding-top: 100px;
+padding-bottom: 50px;
+}
+
+.pvv{
+  font-family: TT Norms;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: right;
+color: #96317D;
+padding-top: 50px;
+text-align: center;
+padding-bottom: 100px;
+}
+
+.vns{
+  font-family: TT Norms;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #96317D;
+text-align: center;
+padding-top: 100px;
+}
+
+.mbk{
+  font-family: TT Norms;
+font-size: 45px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: -0.015em;
+text-align: left;
+color: black;
+text-align: center;
+padding-bottom: 50px;
+}
+
+.imm{
+  font-family: TT Norms;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+margin: 0;
+padding: 0;
+padding-bottom: 8px;
+padding-top: 50px;
+}
+
+.dey{
+font-family: TT Norms;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+padding-bottom: 25px;
+}
+
+
+.cho{
+  font-family: TT Norms;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #96317D;
+padding-bottom: 20px;
+}
+
+.team{
+  display: flex;
+}
+
+.komanda{
+  display: flex;
+  grid-gap: 30px;
+}
+
+
+.imya{
+  padding: 8px 0px;
 }
