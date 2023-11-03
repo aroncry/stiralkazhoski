@@ -434,3 +434,165 @@ padding-bottom: 20px;
 .imya{
   padding: 8px 0px;
 }
+
+.nazad{
+  font-family: TT Norms;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color:black;
+}
+
+.dalee{
+font-family: TT Norms;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #96317D;
+padding-right: 10px;
+}
+
+
+.strelki{
+text-align: right;
+display: flex;
+grid-gap:40px;
+text-align: right;
+margin: 40px 0 0 958px;
+}
+
+.strela{
+  display: flex;
+  padding-left: 10px;
+}
+
+.google span{
+  color: black;
+}
+
+.zvezdi{
+  font-family: TT Norms;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: -0.02em;
+text-align: left;
+color: black;
+}
+
+
+.totocenoc{
+font-family: TT Norms;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+color: black;
+text-align: left;
+}
+
+.google{
+border: 1px;
+display: flex;
+grid-gap: 57px;
+}
+
+.tonkitext{
+  font-family: TT Norms;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+color: black;
+}
+
+
+
+.kartinka{
+  display: flex;
+}
+
+.ocenka{
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding-top: 50px;
+background-color: #FAFAFA;
+padding-left: 135px;
+padding-right: 135px;
+width: 100vw;
+}
+
+.nassvis{
+  font-family: TT Norms;
+font-size: 40px;
+font-weight: 700;
+line-height: 52px;
+letter-spacing: -0.015em;
+text-align: center;
+padding-top: 100px;
+padding-bottom: 50px;
+
+}
+
+.uzbekk{
+  font-family: TT Norms;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+}
+
+.god{
+  font-family: TT Norms;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+padding: 0;
+padding-top: 8px;
+}
+
+
+
+.samm{
+  font-family: TT Norms;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+color: black;
+max-width: 470px;
+}
+
+.vladimir{
+flex-direction: row;
+display: flex;
+flex-direction: column;
+}
+
+.vlzar{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.uzbek{
+  display: flex;
+ 
+}
+
+.uzbek-txt{
+  padding-left: 30px;
+}
