@@ -525,9 +525,6 @@ flex-direction: row;
 justify-content: space-between;
 padding-top: 50px;
 background-color: #FAFAFA;
-padding-left: 135px;
-padding-right: 135px;
-width: 100vw;
 }
 
 .nassvis{
@@ -595,4 +592,353 @@ flex-direction: column;
 
 .uzbek-txt{
   padding-left: 30px;
+}
+
+.boltxt{
+  font-family: TT Norms;
+font-size: 40px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0em;
+color: black;
+max-width: 329px;
+padding: 0;
+padding-bottom: 25px;
+}
+
+.maltxt{
+  font-family: TT Norms;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+letter-spacing: -0.05em;
+text-align: left;
+color: black;
+max-width: 301px;
+}
+
+.maltxt span{
+
+font-family: TT Norms;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: -0.05em;
+text-align: left;
+color: #A95094;
+}
+
+.questions{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.samvopros{
+  font-family: TT Norms;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: -0.02em;
+text-align: left;
+color: black;
+max-width: 720px;
+}
+
+.zadatvopr{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0px 70px;
+  max-width: 720px;
+}
+
+.voprosi{
+  grid-gap: 442px;
+  min-width: 722px;
+}
+
+.flex-cc {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.bolhsoitxt{
+  font-family: TT Norms;
+font-size: 40px;
+font-weight: 700;
+line-height: 47px;
+letter-spacing: -0.015em;
+text-align: left;
+color: black;
+}
+
+.malentxt{
+  font-family: TT Norms;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+
+}
+
+.malentxt span{
+font-family: TT Norms;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #A95094;
+}
+
+.vizov{
+ background-image: url(./фон.png);
+
+ min-height: 360px;
+ padding-top: 100px;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.textt{
+  margin-left: 84px;
+  min-width: 450px;
+}
+
+.vizovmas {
+  background-color: #FFF;
+  border-radius: 15px;
+  display: flex;
+  min-height: 180px;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1510px;
+  align-items: center;
+  margin-left: 51px;
+  margin-right: 51px;
+}
+
+.number{
+  width: 326px;
+height: 69px;
+flex-shrink: 0;
+color: #F5F5F5 #171717;
+border: 1x solid;
+border-radius: 12px;
+color: #171717;
+font-family: TT Norms;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-left: 20px;
+margin-left: 10px;
+}
+
+.zakaz .b12 {
+  display: block;
+  width: 314px;
+  margin-right: 87px;
+  height: 69px;
+}
+
+.mesto{
+  display: flex;
+  justify-content: space-between;
+}
+
+.karta{
+  padding-top: 100px;
+}
+
+.kratkayainf{
+  font-family: TT Norms;
+font-size: 40px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: -0.015em;
+padding-top: 75px;
+min-width: 346px;
+
+}
+
+.strelkovaya{
+  font-family: TT Norms;
+font-size: 18px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+color: black;
+
+}
+
+.grafik{
+  font-family: TT Norms;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+color: black;
+}
+
+.pochta{
+  font-family: TT Norms;
+font-size: 18px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+padding-top: 35px;
+padding-bottom: 35px;
+
+}
+
+.mesto{
+  max-width: 346px;
+
+}
+
+.samakarta{
+  margin-right: 69px;
+}
+
+
+.logotip{
+text-align: center;
+
+}
+
+.vseknopki {
+display: flex;
+font-family: TT Norms;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+color: black;
+grid-gap: 40px;
+
+padding-top: 35px;
+
+}
+
+.foot{
+padding-top: 100px;
+justify-content: center;
+}
+
+.vseknopki p{
+  color: black;
+  align-items: center;
+}
+
+.strelkovaya{
+  padding: 0;
+  padding-top: 35px;
+}
+
+
+.knopkimain{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px; 
+}
+
+.sposoboplatimain{
+ background-color: #FAFAFA;
+ display: flex;
+ flex-direction: row;
+}
+
+.sposob{
+  font-family: TT Norms;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+padding-top: 50px;
+padding-left: 362px;
+padding-right: 27px;
+
+}
+
+.as {
+  display: inline-block;
+  width: 400px;
+  height: 50px;
+  border-radius: 25px;
+  transition: all .5s;
+}
+.as:hover {
+  background-color: #96317D;
+}
+.knopkisposob{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  grid-gap: 0 15px;
+  padding-top: 7px;
+  width: 800px;
+}
+
+.nal{
+  font-family: TT Norms;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: -0.03em;
+color: black;
+padding: 0;
+}
+
+.knopkisposob .b12{
+  border-color: black;
+  align-items: center;
+  display: block;
+  padding: 19px 23px;
+ align-items: center;
+
+}
+
+.sposoboplati{
+  display: flex;
+  justify-content: space-between;
+}
+
+.servis{
+  text-align: right;
+  font-family: TT Norms;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+padding: 0;
+color: black;
+padding-left: 135px;
+}
+
+.chptut{
+  text-align: left;
+  font-family: TT Norms;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: right;
+color: black;
+padding: 0;
+padding-right: 135px
+}
+
+.pravamain{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-bottom: 30px;
 }
